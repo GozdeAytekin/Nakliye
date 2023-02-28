@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakliye.UI", "Nakliye.UI\Nakliye.UI.csproj", "{616BB329-5BAB-46AF-B11E-EC341AA94AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakliye.Common", "Nakliye.Common\Nakliye.Common.csproj", "{915A9CBE-43BC-4207-97BB-961EC30FDB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616BB329-5BAB-46AF-B11E-EC341AA94AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616BB329-5BAB-46AF-B11E-EC341AA94AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616BB329-5BAB-46AF-B11E-EC341AA94AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616BB329-5BAB-46AF-B11E-EC341AA94AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915A9CBE-43BC-4207-97BB-961EC30FDB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915A9CBE-43BC-4207-97BB-961EC30FDB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915A9CBE-43BC-4207-97BB-961EC30FDB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915A9CBE-43BC-4207-97BB-961EC30FDB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D24AA2-80BD-4603-95B8-56516067DAB2}
+	EndGlobalSection
+EndGlobal
